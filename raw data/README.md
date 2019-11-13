@@ -1,1 +1,0 @@
-This directory contains the raw data files that have been demultiplexed and arranged into a feature-barcode matrix by the CellRanger Pipeline. There are two orthotopic, 2 week ON iKras tumors and one 3 week ON iKras whole pancreas sample. The relevant sample metadata is located in the "sample metadata" file in the root directory of this repository.
